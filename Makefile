@@ -13,4 +13,5 @@
 
 include Makefile.common
 
-DOCKER_IMAGE_NAME       ?= prometheus-scw-sd
+DOCKER_REPO        := scaleway
+DOCKER_IMAGE_NAME  := prometheus-scw-sd
