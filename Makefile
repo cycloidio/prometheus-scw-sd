@@ -13,5 +13,5 @@
 
 include Makefile.common
 
-DOCKER_REPO        := scaleway
+DOCKER_REPO        := rg.fr-par.scw.cloud/cycloidio
 DOCKER_IMAGE_NAME  := prometheus-scw-sd
